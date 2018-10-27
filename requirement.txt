@@ -1,0 +1,5 @@
+pygame~=1.9.4
+numpy~=1.14.2
+pyautogui~=0.9.38
+pyobjc-core~=5.1
+pyobjc~=5.1
